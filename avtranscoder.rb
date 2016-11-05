@@ -2,7 +2,7 @@ require "formula"
 
 class Avtranscoder < Formula
   homepage "https://github.com/avTranscoder/avTranscoder"
-  url "https://github.com/avTranscoder/avTranscoder.git", :tag => "master"
+  url "https://github.com/avTranscoder/avTranscoder.git", :branch => "master"
   version "master"
 
   devel do
